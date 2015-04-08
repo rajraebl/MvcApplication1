@@ -140,6 +140,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\PublishProfiles\olaa.pubxml" />
+    <None Include="Properties\PublishProfiles\olaa__staging.pubxml" />
     <None Include="Properties\PublishProfiles\olaweb.pubxml" />
     <None Include="Properties\PublishProfiles\pola.pubxml" />
     <None Include="Properties\PublishProfiles\rajdashboard-us.pubxml" />
